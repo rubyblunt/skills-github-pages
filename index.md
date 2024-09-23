@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: My homepage
 ---
-
+## About Me
+### What I Do
